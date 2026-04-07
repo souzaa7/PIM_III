@@ -15,7 +15,7 @@ Construção do Backlog do Produto
 Status: Concluída
 
 
-Sprint 2 
+Sprint 2 19/03/26 à 06/04/26 - 18 dias
 
 Objetivo: Refinamento e modelagem estrutural do sistema
 
@@ -25,4 +25,16 @@ Validação dos casos de uso com o cliente
 
 Desenvolvimento do Diagrama de Classes
 
-Status: Em andamento
+Status: Concluida
+
+Sprint 3 
+
+Objetivo: Inicio do prototipo
+
+Atividades desenvolvidas:
+
+Prototipo (baixa, media e alta)
+
+inicio do dragrama de sequencia
+
+Status: em andamento
