@@ -35,6 +35,6 @@ Atividades desenvolvidas:
 
 Prototipo (baixa, media e alta)
 
-inicio do dragrama de sequencia
+inicio do diagrama de sequência
 
 Status: em andamento
