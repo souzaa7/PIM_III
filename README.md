@@ -1,3 +1,11 @@
+## Protótipo no Stitch
+
+Acesse o protótipo do sistema:
+
+🔗 https://stitch.withgoogle.com/preview/9583099100805371792?node-id=450cd1eadbab4423ad486cf6577df14d
+
+
+
 Sprint 1 05/03/26 à 19/03/26 - 14 dias
 
 Objetivo: Levantamento e definição dos requisitos do sistema
@@ -27,7 +35,7 @@ Desenvolvimento do Diagrama de Classes
 
 Status: Concluida
 
-Sprint 3 
+Sprint 3 06/04/26 à 03/05/26 - 27 dias
 
 Objetivo: Inicio do prototipo
 
@@ -37,4 +45,18 @@ Prototipo (baixa, media e alta)
 
 inicio do diagrama de sequência
 
-Status: em andamento
+Classes exportadas para C#
+
+Status: Concluída
+
+Sprint 4 
+
+Atividades desenvolvidas:
+
+Validação do prototipo
+
+Inicio do codigo em HTML e CSS
+
+Status: Em andamento
+
+
